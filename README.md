@@ -20,3 +20,6 @@ The frontend service uses React framework which provides delightful layout and p
 
 * The upper bank has 5V input, the lower bank has 3.3V input
 
+## Demo
+![schematic](/pictures/demo.jpg)
+
